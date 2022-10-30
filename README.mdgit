@@ -1,0 +1,1 @@
+"# Salon"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Merc5/Salon.gitgit push -u origin main
